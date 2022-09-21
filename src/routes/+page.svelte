@@ -1,10 +1,7 @@
 <script lang="ts">
     import type { Activity } from '../types'
 
-    /** @type {import('./$types').PageData} */
     export let data: Activity;
-
-    console.log(data)
 </script>
 
 <h1>Bored?</h1>
